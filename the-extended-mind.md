@@ -21,3 +21,7 @@ We think that our mind - or our "cognition" is separate from the environment. Th
 It's amazing that they wrote this about a decade before the iPhone and mobile computing revolution
 
 Language may have formed as the original tool for externalizing thought
+
+There is a counter-argument that the constancy of Inga's memory as opposed to Otto's physical notebook makes Inga's memory more fundamental
+
+A belief must be *available* for consciousness
