@@ -13,3 +13,7 @@ The five Skhandas are:
 This is a very lucid argument against the scientific materialists that say the mind is simply an epiphenomenon of the brain. I believe it's the exact opposite - the brain doesn't create the mind but rather the brain creates the mind. Or at a minimum they are arising as two sides of the same coin.
 
 I do like this book and I feel that I've taken something away from it - mainly about the fundamental Tibetan Buddhist understanding. At the same time there were parts of it that I couldn't connect with - maybe a cultural thing? Some of the words are hard to pronounce which I feel makes it disconnected.
+
+It's fascinating that the Wisdom Mind exists beyond space and time and yet is the only transcendent force which allows you to know your place and space in time and to wisely engage with it.
+
+"Despite being empty, the Wisdom Mind is not a mere absence or nothingness. It is luminous, aware, and endowed with qualities such as compassion, wisdom, and skillful means."
