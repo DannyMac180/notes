@@ -1,4 +1,4 @@
-# The Skhandas
+# The Progressive Stages of Meditation on Emptiness
 
 The five Skhandas are:
 
