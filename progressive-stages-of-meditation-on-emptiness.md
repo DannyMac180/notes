@@ -17,3 +17,5 @@ I do like this book and I feel that I've taken something away from it - mainly a
 It's fascinating that the Wisdom Mind exists beyond space and time and yet is the only transcendent force which allows you to know your place and space in time and to wisely engage with it.
 
 "Despite being empty, the Wisdom Mind is not a mere absence or nothingness. It is luminous, aware, and endowed with qualities such as compassion, wisdom, and skillful means."
+
+The Wisdom Mind is the place where the relative mind and the absolute mind meet to bring nirvana to samsara.
