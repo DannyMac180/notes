@@ -1,5 +1,7 @@
 # The Progressive Stages of Meditation on Emptiness
 
+## Author: Khenpo Tsultrim Gyamtso Rinpoche
+
 The five Skhandas are:
 
 1. Form - the physical body and related physical objects outside of the boundary of your skin
