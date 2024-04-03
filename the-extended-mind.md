@@ -1,5 +1,7 @@
 # The Extended Mind
 
+## Author(s): David Chalmers and Andy Clark
+
 Notes from David Chalmers and Andy Clark's paper ["The Extended Mind"]([url](https://www.alice.id.tue.nl/references/clark-chalmers-1998.pdf))
 
 There are three scenarios that are explored:
