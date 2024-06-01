@@ -1,0 +1,1 @@
+One of the main things I took away from Morgan Housel's podcast on The Knowledge Project was that you shouldn't seek novelty through investing. Investing should be boring and very long term. You should chase novelty through other endeavors if you're into that but not through investing
