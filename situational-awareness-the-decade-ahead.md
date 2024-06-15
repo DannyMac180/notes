@@ -16,3 +16,5 @@ I don't get how Leopold's paper is "terrifying"
 He's basically saying that the people who are explicitly trying to develop AGI are going to succeed relatively soon
 
 Which is the point of the whole thing isn't it? https://x.com/DannyMcAteer8/status/1801791141001449486
+
+LLMs just breeze through data without giving it any second thought. They don't have any depth to their thought. How can we add depth?
