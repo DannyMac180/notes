@@ -18,3 +18,5 @@ He's basically saying that the people who are explicitly trying to develop AGI a
 Which is the point of the whole thing isn't it? https://x.com/DannyMcAteer8/status/1801791141001449486
 
 LLMs just breeze through data without giving it any second thought. They don't have any depth to their thought. How can we add depth?
+
+Once have broken the code for AGI, it won't be that well have just one AGI - we'll be able to deploy a legion of hundreds of millions of AGIs that can do high level cognitive work day and night
