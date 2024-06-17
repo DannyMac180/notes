@@ -20,3 +20,5 @@ Which is the point of the whole thing isn't it? https://x.com/DannyMcAteer8/stat
 LLMs just breeze through data without giving it any second thought. They don't have any depth to their thought. How can we add depth?
 
 Once have broken the code for AGI, it won't be that well have just one AGI - we'll be able to deploy a legion of hundreds of millions of AGIs that can do high level cognitive work day and night
+
+The idea of intelligence explosion is similar to Nick Bostrom's "Superintelligence" hypothesis of an intelligence explosion, but as far as I know Bostrom doesn't focus on specifically deploying AI researchers who are in fact researching AI techniques
