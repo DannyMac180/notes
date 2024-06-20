@@ -24,3 +24,5 @@ Once have broken the code for AGI, it won't be that well have just one AGI - we'
 The idea of intelligence explosion is similar to Nick Bostrom's "Superintelligence" hypothesis of an intelligence explosion, but as far as I know Bostrom doesn't focus on specifically deploying AI researchers who are in fact researching AI techniques
 
 "Expect 100 million automated researchers each working at 100x human speed not long after we begin to be able to automate AI research."
+
+It seems like the algorithmic improvements are advancing the slowest of Leopold's three pillars - does that mean that's the area for most improvement? Or does it mean we should focus on the other areas?
