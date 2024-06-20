@@ -26,3 +26,5 @@ The idea of intelligence explosion is similar to Nick Bostrom's "Superintelligen
 "Expect 100 million automated researchers each working at 100x human speed not long after we begin to be able to automate AI research."
 
 It seems like the algorithmic improvements are advancing the slowest of Leopold's three pillars - does that mean that's the area for most improvement? Or does it mean we should focus on the other areas?
+
+We haven't even gotten out of the first inning of optimizing the shit out of #LLMs , there's still so much low-hanging fruit
