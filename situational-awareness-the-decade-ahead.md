@@ -29,6 +29,8 @@ We're literally taking the latent capabilities of the physical universe and usin
 
 It seems like the algorithmic improvements are advancing the slowest of Leopold's three pillars - does that mean that's the area for most improvement? Or does it mean we should focus on the other areas?
 
+It's insane that human beings can think of abstract ways of moving information around in computers that haven't been thought of before and that can lead to changing the world forever, and there's still more to be discovered
+
 We haven't even gotten out of the first inning of optimizing the shit out of #LLMs , there's still so much low-hanging fruit
 
 2024-06-21 - Anthropic release Claude Sonnet 3.5 yesterday. It seems to be significantly stronger than GPT-4o. What are the possible algorithmic improvements or unhobbling they could have done to make it that much better?
