@@ -34,3 +34,5 @@ We haven't even gotten out of the first inning of optimizing the shit out of #LL
 2024-06-21 - Anthropic release Claude Sonnet 3.5 yesterday. It seems to be significantly stronger than GPT-4o. What are the possible algorithmic improvements or unhobbling they could have done to make it that much better?
 
 It's insane that human beings can think of abstract ways of moving information around in computers that haven't been thought of before and that can lead to changing the world forever, and there's still more to be discovered
+
+We may be developing the algorithmic techniques necessary to get to AGI right now, and if we don't protect them it would be very easy for the Chinese to steal them
