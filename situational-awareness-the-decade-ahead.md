@@ -36,3 +36,5 @@ We haven't even gotten out of the first inning of optimizing the shit out of #LL
 It's insane that human beings can think of abstract ways of moving information around in computers that haven't been thought of before and that can lead to changing the world forever, and there's still more to be discovered
 
 We may be developing the algorithmic techniques necessary to get to AGI right now, and if we don't protect them it would be very easy for the Chinese to steal them
+
+If the InfoSec stance at OpenAI is becomeing much more strict and people are being monitored, this could explain why people like Karpathy and Ilya left. Those guys seem to like the open science and if Leopold is right then things are already way less open and going to only get more so.
