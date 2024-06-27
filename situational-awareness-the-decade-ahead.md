@@ -38,3 +38,5 @@ It's insane that human beings can think of abstract ways of moving information a
 We may be developing the algorithmic techniques necessary to get to AGI right now, and if we don't protect them it would be very easy for the Chinese to steal them
 
 If the InfoSec stance at OpenAI is becomeing much more strict and people are being monitored, this could explain why people like Karpathy and Ilya left. Those guys seem to like the open science and if Leopold is right then things are already way less open and going to only get more so.
+
+The worst possible outcome is a neck and neck race to SI, where the US and China are racing ahead trying to beat each other, and there's no room left for considering safety or alignment.
