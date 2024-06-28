@@ -40,3 +40,5 @@ We may be developing the algorithmic techniques necessary to get to AGI right no
 If the InfoSec stance at OpenAI is becomeing much more strict and people are being monitored, this could explain why people like Karpathy and Ilya left. Those guys seem to like the open science and if Leopold is right then things are already way less open and going to only get more so.
 
 The worst possible outcome is a neck and neck race to SI, where the US and China are racing ahead trying to beat each other, and there's no room left for considering safety or alignment.
+
+Superalignment is a terribly difficult problem and is going to require us firing on all intellectual cylinders to get it right.
