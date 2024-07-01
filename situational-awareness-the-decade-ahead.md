@@ -42,3 +42,5 @@ If the InfoSec stance at OpenAI is becomeing much more strict and people are bei
 The worst possible outcome is a neck and neck race to SI, where the US and China are racing ahead trying to beat each other, and there's no room left for considering safety or alignment.
 
 Superalignment is a terribly difficult problem and is going to require us firing on all intellectual cylinders to get it right.
+
+The most effective way of aligning AI today is through RLHF, but how can we align the model at the pre-training stage? We need to be careful about what data we give it.
