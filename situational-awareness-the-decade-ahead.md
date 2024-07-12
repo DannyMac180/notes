@@ -44,3 +44,5 @@ The worst possible outcome is a neck and neck race to SI, where the US and China
 Superalignment is a terribly difficult problem and is going to require us firing on all intellectual cylinders to get it right.
 
 The most effective way of aligning AI today is through RLHF, but how can we align the model at the pre-training stage? We need to be careful about what data we give it.
+
+Ultimately, the alignment problem comes down to making sure that AI will do what's good for humans and not just good for itself.
