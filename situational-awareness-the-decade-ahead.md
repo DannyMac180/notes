@@ -46,3 +46,5 @@ Superalignment is a terribly difficult problem and is going to require us firing
 The most effective way of aligning AI today is through RLHF, but how can we align the model at the pre-training stage? We need to be careful about what data we give it.
 
 Ultimately, the alignment problem comes down to making sure that AI will do what's good for humans and not just good for itself.
+
+What will the world and our own individual lives look like when AI can do all the cognitivie work? I think we will do other kinds of work that is fulfilling to us. We will do soul and heart work, and get AI to help us with the cognitive work that's detached from the soul and heart.
