@@ -50,3 +50,5 @@ Ultimately, the alignment problem comes down to making sure that AI will do what
 What will the world and our own individual lives look like when AI can do all the cognitivie work? I think we will do other kinds of work that is fulfilling to us. We will do soul and heart work, and get AI to help us with the cognitive work that's detached from the soul and heart.
 
 There was a time when the researchers professed that they wouldn't connect AI to the internet, but here we are with AI connected to the internet. Same could go for any number of promises. "We'll always have a human in the loop"
+
+To pay the "Doomers" their due, the true and warranted to fear about AI is that we'll lose control and there will be no turning back. I don't see any argument why this isn't possible, which makes it all the more crucial that we navigate this transformation wisely.
