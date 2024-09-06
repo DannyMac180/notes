@@ -20,4 +20,7 @@ Even if that is true on some level, I can't imagine how you could possibly live 
 - “Mind and brain are one and the same thing seen from two different perspectives. The gap between the subjective and the objective is an epistemic gap, not an ontological gap.”
 
 ### 9.1.9 Papineau's Mind-Brain Identity
-- Mind brain identity is essentially the idea that the mind and brain are in fact identical to each other. 
+- Mind brain identity is essentially the idea that the mind and brain are in fact identical to each other.
+
+### 9.1.11. Hardcastle’s argument against materialism skeptics
+- Materialsim skeptics believe that there must be something outside of consciousness, but Hardcastle argues that materialists have full faith in science and therefore believe the consciousness is physical just life everything else
