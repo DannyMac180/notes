@@ -1,7 +1,5 @@
 Authors: Ruben Laukkonen and Shamil Chandaria
-
 Link: [https://osf.io/preprints/psyarxiv/daf5n?view\_only=](https://t.co/861KLTCJjD)
-
 ## Takeways
 - You are the reality model and the reality model is you. To know yourself is to know the world and to know the world is to know yourself
 
@@ -46,5 +44,10 @@ It's only possible to know yourself against the backdrop of an epistemic field. 
 > What we mean by the term epistemic depth is therefore a capacity or continuum (i.e., deepening) of knowing, or awareness, that can be more or less active (i.e., intense or clear)
 > ([[DEPTH_LaukkonenChandaria.pdf#page=9&annotation=478R|DEPTH_LaukkonenChandaria, p.9]])
 > Formally, we propose that epistemic depth is a combination of the precision of specific contents in the reality model, and a global reality model reflexivity precision parameter (or simply, reflexivity precision, homologous to the degree of luminosity).
-
+> ([[DEPTH_LaukkonenChandaria.pdf#page=11&annotation=481R|DEPTH_LaukkonenChandaria, p.11]])
+> “...my own working hypothesis is that consciousness is our inner model of an “epistemic space,” a space in which pos-si-ble and -actual states of knowledge can be represented. I think that conscious beings are precisely those who have a model of their own space of knowledge—-they are systems that (in an entirely nonlinguistic and nonconceptual way) know that they currently have the capacity to know something.”3
+> [!PDF|255, 208, 0] [[DEPTH_LaukkonenChandaria.pdf#page=13&annotation=487R|DEPTH_LaukkonenChandaria, p.13]]
+> > When we say “pay attention to your breath” what we mean is “simplify your reality model so it is dominated by the breath”.
+> 
+> 
 
